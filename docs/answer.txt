@@ -1,1 +1,27 @@
-a
+3E	a)
+	diego@LAPTOP-CH2GU8EH MINGW64 ~/github/assignment2 (master)
+	$ git add docs/
+	warning: LF will be replaced by CRLF in docs/status.txt.
+	The file will have its original line endings in your working directory
+	diego@LAPTOP-CH2GU8EH MINGW64 ~/github/assignment2 (master)
+	$ git commit -m "Creating docs and status.txt"
+	[master a90dd5a] Creating docs and status.txt
+        1 file changed, 6 insertions(+)
+        create mode 100644 docs/status.txt
+	b)
+	$ git rev-list --count HEAD
+	9 commits
+	c)
+	$ git log .gitignore
+	Date:   Wed Sep 25 18:13:30 2019 -0400
+	d) Branches is used to fix bugs and develop features without affecting the main code. 
+	e) git log shows commit logs while git status lets you insepct the working directory and the staging area 
+	f) git log Vehicle.h
+	g) git log --grep="file"
+	H)
+	Inheritance: the ability of a class to derive properties and characteristics from another class.
+	Polymorphism: A call to a member function will cause a different function to be executed depending on the type of object that invokes the function.
+	Encapsulation: Is a process of combining data members and functions in a single unit.
+	I) Dictator and Lieutants is an extension of integration manager. It is used when there is a huge amount of contributors (>100). 
+	J) Dictator and Lieutants workflow is useful when is it used for a huge group of people in this case it is(100 people) and there are lieutants that help verify the code.
+	It allows the dictator to control how much of the work and collect code to verify it before integrating it. It would be to unorganize to use centralized workflow because everything is in 1 area.
