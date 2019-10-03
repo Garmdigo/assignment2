@@ -25,3 +25,5 @@
 	I) Dictator and Lieutants is an extension of integration manager. It is used when there is a huge amount of contributors (>100). 
 	J) Dictator and Lieutants workflow is useful when is it used for a huge group of people in this case it is(100 people) and there are lieutants that help verify the code.
 	It allows the dictator to control how much of the work and collect code to verify it before integrating it. It would be to unorganize to use centralized workflow because everything is in 1 area.
+5)     The driving simulator is using both because when one creates a class, you are using encapsulation. 
+       The program uses virtual functions which uses the concept of polymorphism.
