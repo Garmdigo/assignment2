@@ -46,4 +46,5 @@ void printVehiclesRoster(Vehicle **vehicles, int size) {
              << vehicles[i]->mileageEstimate(simulatedDistance) << " miles in "
              << simulatedDistance << " seconds" << endl;
     }
+}
 
