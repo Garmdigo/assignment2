@@ -18,11 +18,11 @@ void Motorcycle::setGearCount(int gearCount) {
 }
 
 double Motorcycle::mileageEstimate(double time) {
-	double mileage=0;
-    	if(getGearcount()>=2)
-	 mileage = 15 *time;
-	else 
-	mileage = 10 * time;
+        double mileage=0;
+        if(getGearCount()>=2)
+         mileage = 15 *time;
+        else
+        mileage = 10 * time;
     return mileage;
 }
 
